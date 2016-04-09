@@ -1,5 +1,5 @@
 {
-  "name": "font-roboto",
+  "name": "font-roboto-local",
   "version": "1.0.1",
   "description": "Embedded version of `font-roboto` as a drop-in replacement for the ones as used by native polymer elements",
   "authors": [
@@ -17,10 +17,10 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git://github.com/safetychanger/font-roboto"
+    "url": "git://github.com/ninthspace/font-roboto-local"
   },
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/safetychanger/font-roboto",
+  "homepage": "https://github.com/ninthspace/font-roboto-local",
   "dependencies": {
     "geolocator": "latest"
   }
